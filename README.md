@@ -30,5 +30,4 @@ A simple **Notes API** built with **FastAPI**, implementing **JWT authentication
 
 ---
 
-## 📂 Project Structure  
 
