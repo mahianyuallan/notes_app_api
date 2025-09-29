@@ -18,7 +18,7 @@ def verify_password(plain_password: str, hashed_password: str) -> bool:
 
 
 # JWT settings
-SECRET_KEY = "supersecretkey"  # 🚨 Change to a strong secret in production
+SECRET_KEY = "supersecretkey" 
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
